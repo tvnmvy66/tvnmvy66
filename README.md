@@ -2,6 +2,9 @@
 <h3 align="center">A passionate developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tvnmvy66&label=Profile%20views&color=0e75b6&style=flat" alt="tvnmvy66" /> </p>
+
+[![An image of @yourusername's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/yourusername)](https://holopin.io/@yourusername)
+
 <!--
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tvnmvy66" alt="tvnmvy66" /></a> </p>
 -->
