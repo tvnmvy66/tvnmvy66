@@ -11,9 +11,9 @@
 - 🔭 I’m currently working on **MERN Stack and System Designing**
 
 - 🌱 I’m currently learning **Amazon Web Services**
-
+<!--
 - 📝 I regularly write articles on [https://tanmay.blog/blog](https://tanmay.blog/blog)
-
+-->
 - 💬 Ask me about **Node.js, React, Postgresql, MongoDB Etc.**
 
 - 📫 How to reach me **tanmay.blog**
